@@ -17,6 +17,7 @@
     "angular booking"
   ],
   "scripts": {
+    "prepare": "npm run build",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
